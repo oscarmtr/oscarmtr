@@ -1,4 +1,5 @@
-
+[![web](https://github.com/user-attachments/assets/4b842b93-5b05-4859-adc3-74a49b806ca2)](https://sites.google.com/view/oscarmr)
+[![orcid](https://github.com/user-attachments/assets/b42b9fc7-ad56-4aa1-bd06-31e70da3d762)](https://orcid.org/0009-0006-3798-2097)
 
 <!--
 **oscarmtr/oscarmtr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![orcid](https://github.com/user-attachments/assets/b42b9fc7-ad56-4aa1-bd06-31e70da3d762)](https://orcid.org/0009-0006-3798-2097)
+
