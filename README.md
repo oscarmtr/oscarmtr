@@ -1,7 +1,10 @@
 [![web1](https://github.com/user-attachments/assets/afd2f427-2b74-44fa-b224-179bc6b407eb)](https://sites.google.com/view/oscarmr)
 [![orcid2](https://github.com/user-attachments/assets/99e95467-c08b-4a3a-b254-c9822b2f6eaa)](https://orcid.org/0009-0006-3798-2097)
-<!--[![web](https://github.com/user-attachments/assets/4b842b93-5b05-4859-adc3-74a49b806ca2)](https://sites.google.com/view/oscarmr)
-[![orcid1](https://github.com/user-attachments/assets/9e3f8f53-4cfb-4eaf-ba4a-b0b004e06fb9)](https://orcid.org/0009-0006-3798-2097)-->
+
+
+<!--
+[![researchgate](https://github.com/user-attachments/assets/099b6045-05a0-4b30-a6ef-3ca15265419e)](https://www.researchgate.net/profile/Oscar-Mata-Romero)
+-->
 
 
 
