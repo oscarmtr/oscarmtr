@@ -38,24 +38,27 @@ Estudiante de **Grado en Ciencias Ambientales** en la [Universidad Pablo de Olav
 </div>
 
 
-## 🌐 Estadísticas de GitHub
 
-<div align="center">
+## 🌐 GitHub Stats
 
-  <img
-    height= "200"
-    src="https://github-readme-stats.vercel.app/api?username=oscarmtr&show_icons=true&theme=tokyonight"
-    alt="GitHub Stats"
-  />
-  <img
-    height= "200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmtr&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-   />
+<details>
+  <summary>Ver estadísticas</summary>
 
+  <div align="center">
+    <img
+      height="200"
+      src="https://github-readme-stats.vercel.app/api?username=oscarmtr&show_icons=true&theme=tokyonight"
+      alt="GitHub Stats"
+    />
+    <img
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmtr&layout=compact&theme=tokyonight"
+      alt="Top Languages"
+    />
+  </div>
 
+</details>
 
-</div>
 
 	
 <p align = "center">
