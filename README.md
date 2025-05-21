@@ -1,4 +1,4 @@
-![Jupyter](https://github.com/user-attachments/assets/36400065-5256-4626-a16e-398c77484923)![Jupyter](https://github.com/user-attachments/assets/c11cc4ef-bd79-4788-b530-8ad1dc5b130d)![Jupyter](https://github.com/user-attachments/assets/0a0b71af-909c-4eca-b960-2fa951056c02)![Jupyter](https://github.com/user-attachments/assets/6fb3c328-4243-4e15-8d24-b7d97228326f)![Jupyter](https://github.com/user-attachments/assets/fd2dc14e-89fc-447c-9742-cac379a55ffc)![RStudio](https://github.com/user-attachments/assets/6e49bfa6-8803-4785-87d4-bafcf59f160f)![Jupyter](https://github.com/user-attachments/assets/5de0ffd5-dde7-4dee-b2d1-fb8b061c7270)![Jupyter](https://github.com/user-attachments/assets/40386bfa-5a77-45a6-a813-59db8fffbfb8)![Jupyter](https://github.com/user-attachments/assets/92646bf8-4ca5-48e1-a7d7-bd7e119081ab)<h1 align="center">
+<h1 align="center">
  Óscar Mata Romero
 
 
