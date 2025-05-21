@@ -7,6 +7,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/oscarmtr?label=Seguidores&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/oscarmtr?style=social)
+![Visitas al perfil](https://img.shields.io/github/watchers/oscarmtr/oscarmtr?style=social)
+
 
 </div>
 
@@ -44,18 +46,28 @@ Estudiante de **Grado en Ciencias Ambientales** en la [Universidad Pablo de Olav
 <details>
   <summary>Ver estadísticas</summary>
 
-  <div align="center">
-    <img
-      height="200"
-      src="https://github-readme-stats.vercel.app/api?username=oscarmtr&show_icons=true&theme=tokyonight"
-      alt="GitHub Stats"
-    />
-    <img
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmtr&layout=compact&theme=tokyonight"
-      alt="Top Languages"
-    />
-  </div>
+<div align="center">
+
+   <!-- Racha de Commits -->
+  <img
+    height="200"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=oscarmtr&theme=tokyonight"
+    alt="GitHub Streak"
+  />
+  <!-- GitHub Statísticas generales -->
+  <img
+    height="200"
+    src="https://github-readme-stats.vercel.app/api?username=oscarmtr&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
+  <!-- Top Lenguajes -->
+  <img
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarmtr&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+  />
+
+</div>
 
 </details>
 
