@@ -1,7 +1,6 @@
 <h1 align="center">
  Óscar Mata Romero
 
-
 </h1>
 <div align="center">
 
@@ -34,9 +33,12 @@ Estudiante de **Grado en Ciencias Ambientales** en la [Universidad Pablo de Olav
 ![python](https://github.com/user-attachments/assets/0e3a2b8e-685d-40ff-b099-c89f0ff1f187)
 ![r](https://github.com/user-attachments/assets/2f86a7d0-61bb-4045-a5e0-b05fd1cf7cb5)
 ![git](https://github.com/user-attachments/assets/16631101-2add-4ebf-9789-e5f01cd7b360)
+![visualstudiocode](https://img.shields.io/badge/Visual_Studio_Code-%231630BE?style=for-the-badge)
 ![Jupyter](https://github.com/user-attachments/assets/1a5b54db-5cbb-40f7-b855-fb1205f1e268)
 ![RStudio](https://github.com/user-attachments/assets/b7450829-d448-4a13-9d21-4eb707e6fe97)
-![linux](https://github.com/user-attachments/assets/a072c5f2-faed-4008-97e6-10cc1b6f341c)
+![Windows](https://img.shields.io/badge/windows-lightblue?style=for-the-badge)
+![linux](https://img.shields.io/badge/linux-%23FCC624?style=for-the-badge&logo=Linux&logoColor=black)
+![Ubuntu](https://github.com/user-attachments/assets/50be9e53-6f85-4125-a4c6-73aa7a3ec4ce)
 ![archlinux](https://github.com/user-attachments/assets/fe692974-1b06-46f3-b76e-c128b07ba91d)
 ![LaTeX](https://github.com/user-attachments/assets/acc6974f-b9e0-425d-90d1-5cf9e69552eb)
 
@@ -84,50 +86,5 @@ Estudiante de **Grado en Ciencias Ambientales** en la [Universidad Pablo de Olav
 ------
 
 
-
-<!--
-
----
-  <img src="https://tenor.com/es/view/ali-yalniz-world-is-spinning-earth-planet-world-gif-14989412" width="100" alt="Tierra girando" >  
-
- <div class="tenor-gif-embed" data-postid="14989412" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/ali-yalniz-world-is-spinning-earth-planet-world-gif-14989412">Ali Yalniz World Is Spinning Sticker</a>from <a href="https://tenor.com/search/ali+yalniz-stickers">Ali Yalniz Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-## 📝 Sobre mí
-
-Estudiante de **Grado en Ciencias Ambientales** en la Universidad Pablo de Olavide con experiencia práctica en proyectos de paleoclimatología, física atmosférica y procesos de ingeniería química. Apasionado por el análisis de datos climáticos, modelado en R y Python, e inteligencia artificial aplicada a las ciencias naturales.
-
----
-
-
-## 🔧 Habilidades y Tecnologías
-
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-
-- **Análisis de datos**: Pandas, NumPy, dplyr (R)  
-- **Modelado climático**: R (lm, ggplot2), Python (SciPy)  
-- **IA & ML**: Scikit-learn, TensorFlow básico  
-- **Procesamiento de imágenes**: OpenCV, scikit-image  
-- **Bases de datos**: SQLite, PostgreSQL básico
-
----
-
-## 🚀 Proyectos Destacados
-
-### [CDSuite](https://github.com/oscarmtr/CDSuite)  
-Herramientas en Python para obtención y gestión de datos del Copernicus Climate Data Store.  
-- Descarga y normalización de series temporales climáticas.  
-- Visualización y estadísticas básicas de variables climáticas.  
-- Integración con Jupyter Notebooks para análisis interactivo.
-
----
-
-
-> “La ciencia no es sólo un conjunto de conocimientos, sino una manera de pensar.”  
-> – Carl Sagan
-
--->
 
 
