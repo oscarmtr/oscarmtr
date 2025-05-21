@@ -1,4 +1,4 @@
-<h1 align="center">
+![Jupyter](https://github.com/user-attachments/assets/36400065-5256-4626-a16e-398c77484923)![Jupyter](https://github.com/user-attachments/assets/c11cc4ef-bd79-4788-b530-8ad1dc5b130d)![Jupyter](https://github.com/user-attachments/assets/0a0b71af-909c-4eca-b960-2fa951056c02)![Jupyter](https://github.com/user-attachments/assets/6fb3c328-4243-4e15-8d24-b7d97228326f)![Jupyter](https://github.com/user-attachments/assets/fd2dc14e-89fc-447c-9742-cac379a55ffc)![RStudio](https://github.com/user-attachments/assets/6e49bfa6-8803-4785-87d4-bafcf59f160f)![Jupyter](https://github.com/user-attachments/assets/5de0ffd5-dde7-4dee-b2d1-fb8b061c7270)![Jupyter](https://github.com/user-attachments/assets/40386bfa-5a77-45a6-a813-59db8fffbfb8)![Jupyter](https://github.com/user-attachments/assets/92646bf8-4ca5-48e1-a7d7-bd7e119081ab)<h1 align="center">
  Óscar Mata Romero
 
 
@@ -34,8 +34,11 @@ Estudiante de **Grado en Ciencias Ambientales** en la [Universidad Pablo de Olav
 ![python](https://github.com/user-attachments/assets/0e3a2b8e-685d-40ff-b099-c89f0ff1f187)
 ![r](https://github.com/user-attachments/assets/2f86a7d0-61bb-4045-a5e0-b05fd1cf7cb5)
 ![git](https://github.com/user-attachments/assets/16631101-2add-4ebf-9789-e5f01cd7b360)
+![Jupyter](https://github.com/user-attachments/assets/1a5b54db-5cbb-40f7-b855-fb1205f1e268)
+![RStudio](https://github.com/user-attachments/assets/b7450829-d448-4a13-9d21-4eb707e6fe97)
 ![linux](https://github.com/user-attachments/assets/a072c5f2-faed-4008-97e6-10cc1b6f341c)
 ![archlinux](https://github.com/user-attachments/assets/fe692974-1b06-46f3-b76e-c128b07ba91d)
+![LaTeX](https://github.com/user-attachments/assets/acc6974f-b9e0-425d-90d1-5cf9e69552eb)
 
 </div>
 
@@ -53,7 +56,7 @@ Estudiante de **Grado en Ciencias Ambientales** en la [Universidad Pablo de Olav
     height="200"
     src="https://github-readme-streak-stats.herokuapp.com/?user=oscarmtr&theme=tokyonight"
     alt="GitHub Streak"
-  />
+ />
   <!-- GitHub Statísticas generales -->
   <img
     height="200"
