@@ -6,8 +6,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/oscarmtr?label=Seguidores&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/oscarmtr?style=social)
-![Visitas al perfil](https://img.shields.io/github/watchers/oscarmtr/oscarmtr?style=social)
-
+<!--![Visitas al perfil](https://img.shields.io/github/watchers/oscarmtr/oscarmtr?style=social)-->
+![](https://komarev.com/ghpvc/?username=oscarmtr)
 
 </div>
 
@@ -84,7 +84,7 @@ Estudiante de **Grado en Ciencias Ambientales** en la [Universidad Pablo de Olav
 
 
 ------
-
+![](https://hit.yhype.me/github/profile?account_id=120526602)
 
 
 
