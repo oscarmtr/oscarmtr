@@ -25,7 +25,7 @@
 
 ## 📝 Sobre mí
 
-Estudiante de **Grado en Ciencias Ambientales** en la [Universidad Pablo de Olavide](https://www.upo.es/portal/impe/web/portada/index.html) con experiencia práctica en proyectos de paleoclimatología, física atmosférica y procesos de ingeniería química. Apasionado por el análisis de datos climáticos, modelado en R y Python, e inteligencia artificial aplicada a las ciencias.
+**Graduado en Ciencias Ambientales** en la [Universidad Pablo de Olavide](https://www.upo.es/portal/impe/web/portada/index.html) con experiencia práctica en proyectos de paleoclimatología, física atmosférica y procesos de ingeniería química. Apasionado por el análisis de datos climáticos, modelado en R y Python, e inteligencia artificial aplicada a las ciencias.
 
 ## 🔧 Habilidades
 <div align="center">
