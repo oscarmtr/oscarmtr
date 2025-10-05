@@ -20,6 +20,8 @@
 [![Linkedin](https://github.com/user-attachments/assets/b932566d-76b3-4f61-ad2b-62dd86ab6807)](https://www.linkedin.com/in/oscar-mat-rom/)
 [![researchgatesvg](https://github.com/user-attachments/assets/ac1e0f82-6578-43c8-b37d-4b6ee0548991)](https://www.researchgate.net/profile/Oscar-Mata-Romero)
 [![orcid](https://github.com/user-attachments/assets/ace13b81-881e-4f1b-9810-bf2bc6a7db5e)](https://orcid.org/0009-0006-3798-2097)
+[![scholar](https://img.shields.io/badge/Google_Scholar-blue?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=Q6Y2zl0AAAAJ&hl)
+
 
 </div>
 
