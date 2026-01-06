@@ -6,6 +6,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/oscarmtr?label=Seguidores&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/oscarmtr?style=social)
+
 <!--![Visitas al perfil](https://img.shields.io/github/watchers/oscarmtr/oscarmtr?style=social)-->
 ![](https://komarev.com/ghpvc/?username=oscarmtr)
 
@@ -32,6 +33,7 @@
 ## 🔧 Habilidades
 <div align="center">
 
+<!--
 ![python](https://github.com/user-attachments/assets/0e3a2b8e-685d-40ff-b099-c89f0ff1f187)
 ![r](https://github.com/user-attachments/assets/2f86a7d0-61bb-4045-a5e0-b05fd1cf7cb5)
 ![git](https://github.com/user-attachments/assets/16631101-2add-4ebf-9789-e5f01cd7b360)
@@ -43,7 +45,26 @@
 ![Ubuntu](https://github.com/user-attachments/assets/50be9e53-6f85-4125-a4c6-73aa7a3ec4ce)
 ![archlinux](https://github.com/user-attachments/assets/fe692974-1b06-46f3-b76e-c128b07ba91d)
 ![LaTeX](https://github.com/user-attachments/assets/acc6974f-b9e0-425d-90d1-5cf9e69552eb)
+![Conda](https://img.shields.io/badge/conda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Conda Forge](https://img.shields.io/badge/conda--forge-000000.svg?style=for-the-badge&logo=condaforge&logoColor=white)
+-->
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+![Anaonda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Conda Forge](https://img.shields.io/badge/conda--forge-%23000000.svg?style=for-the-badge&logo=conda-forge&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-%23FF0000.svg?style=for-the-badge&logo=spyder%20ide&logoColor=white)
+![RStudio](https://github.com/user-attachments/assets/b7450829-d448-4a13-9d21-4eb707e6fe97)
+
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%230078d4.svg?style=for-the-badge&logo=windows&logoColor=white)
 </div>
 
 
