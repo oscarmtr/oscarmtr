@@ -72,7 +72,7 @@
 ## 🌐 GitHub Stats
 
 <details>
-  <summary>Ver estadísticas</summary>
+  <summary>Show statistics</summary>
 
 <div align="center">
 
