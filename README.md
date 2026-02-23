@@ -1,5 +1,5 @@
 <h1 align="center">
- Óscar Mata Romero
+<img src="https://github.com/oscarmtr/style/blob/main/cursor.svg" width="18"> Óscar Mata Romero
 
 </h1>
 <div align="center">
@@ -30,7 +30,7 @@
 
 **Graduate in Environmental Sciences** at the [Pablo de Olavide University](https://www.upo.es/portal/impe/web/portada/index.html) and **Master's student in Meteorology** at the [Complutense University of Madrid](https://www.ucm.es/) with practical experience in projects of paleoclimatology, atmospheric physics, and chemical engineering processes. Passionate about climate data analysis, modeling in R and Python, and artificial intelligence applied to sciences.
 
-## 🔧 Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <div align="center">
 
 <!--
@@ -69,7 +69,7 @@
 
 
 
-## 🌐 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 <details>
   <summary>Show statistics</summary>
