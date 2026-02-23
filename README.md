@@ -4,7 +4,7 @@
 </h1>
 <div align="center">
 
-![GitHub followers](https://img.shields.io/github/followers/oscarmtr?label=Seguidores&style=social)
+![GitHub followers](https://img.shields.io/github/followers/oscarmtr?label=Followers&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/oscarmtr?style=social)
 
 <!--![Visitas al perfil](https://img.shields.io/github/watchers/oscarmtr/oscarmtr?style=social)-->
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-[![web2](https://github.com/user-attachments/assets/4f2e0bd9-3143-4238-ad8e-a78aa382f078)](https://sites.google.com/view/oscarmr)
+[![web2](https://github.com/user-attachments/assets/4f2e0bd9-3143-4238-ad8e-a78aa382f078)](https://sites.google.com/view/oscarmr-en)
 [![gmail](https://github.com/user-attachments/assets/7f17acf5-7893-4748-b736-9281f61fefde)](mailto:oscarmata.rom@gmail.com)
 [![Linkedin](https://github.com/user-attachments/assets/b932566d-76b3-4f61-ad2b-62dd86ab6807)](https://www.linkedin.com/in/oscar-mat-rom/)
 [![researchgatesvg](https://github.com/user-attachments/assets/ac1e0f82-6578-43c8-b37d-4b6ee0548991)](https://www.researchgate.net/profile/Oscar-Mata-Romero)
@@ -26,11 +26,11 @@
 
 </div>
 
-## 📝 Sobre mí
+## 📝 About me
 
-**Graduado en Ciencias Ambientales** en la [Universidad Pablo de Olavide](https://www.upo.es/portal/impe/web/portada/index.html) y **estudiante de Máster en Meteorología** en la [Universidad Complutense de Madrid](https://www.ucm.es/) con experiencia práctica en proyectos de paleoclimatología, física atmosférica y procesos de ingeniería química. Apasionado por el análisis de datos climáticos, modelado en R y Python, e inteligencia artificial aplicada a las ciencias.
+**Graduate in Environmental Sciences** at the [Pablo de Olavide University](https://www.upo.es/portal/impe/web/portada/index.html) and **Master's student in Meteorology** at the [Complutense University of Madrid](https://www.ucm.es/) with practical experience in projects of paleoclimatology, atmospheric physics, and chemical engineering processes. Passionate about climate data analysis, modeling in R and Python, and artificial intelligence applied to sciences.
 
-## 🔧 Habilidades
+## 🔧 Skills
 <div align="center">
 
 <!--
