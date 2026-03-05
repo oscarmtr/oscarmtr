@@ -1,5 +1,5 @@
 <h1 align="center">
-<!-- <img src="https://github.com/oscarmtr/style/blob/main/cursor.svg" width="18"> --> Óscar Mata Romero
+<img src="https://github.com/oscarmtr/oscarmtr/blob/main/cursor.svg" width="18"> Óscar Mata Romero
 
 </h1>
 <div align="center">
