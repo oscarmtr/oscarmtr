@@ -28,7 +28,7 @@
 
 ## 📝 About me
 
-**Graduate in Environmental Sciences** at the [Pablo de Olavide University](https://www.upo.es/portal/impe/web/portada/index.html) and **Master's student in Meteorology** at the [Complutense University of Madrid](https://www.ucm.es/) with practical experience in projects of paleoclimatology, atmospheric physics, and chemical engineering processes. Passionate about climate data analysis, modeling in R and Python, and artificial intelligence applied to sciences.
+**MSc student in Meteorology** at the [Complutense University of Madrid](https://www.ucm.es/) and **BSc in Environmental Sciences** at the [Pablo de Olavide University](https://www.upo.es/portal/impe/web/portada/index.html) with practical experience in projects of paleoclimatology, atmospheric physics, and chemical engineering processes. Passionate about climate data analysis, modeling in R and Python, and artificial intelligence applied to sciences.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <div align="center">
